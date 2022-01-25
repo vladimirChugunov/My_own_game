@@ -1,0 +1,4 @@
+export const pointsAT = {
+  ADD_POINTS: 'ADD_POINTS',
+  DECREASE_POINTS: 'DECREASE_POINTS',
+}
